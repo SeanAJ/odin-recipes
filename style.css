@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.list {
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.wrap {
+    background-color: pink;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+ol {
+    list-style-position: inside;
+    text-align: center;
+}
