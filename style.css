@@ -6,20 +6,38 @@
 .title {
     text-align: center;
 }
-
-.list {
-    background-color: aquamarine;
-    text-align: center;
-
+h1 {
+    margin: 30px;
 }
 .wrap {
     background-color: pink;
 }
 ul {
     list-style-position: inside;
-    text-align: center;
 }
 ol {
     list-style-position: inside;
-    text-align: center;
+}
+li + li {
+    margin-top: 20px;
+
+}
+
+.mainpg {
+    font-size: 20px;
+
+}
+
+.block {
+    background-color: aquamarine;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 25px;
+}
+img {
+    width: 500px;
+    border-radius: 25px;
+    margin-bottom: 25px;
 }
